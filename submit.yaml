@@ -1,0 +1,9 @@
+{
+    "resourceKind": "WorkflowTemplate",
+    "resourceName": "perf-testing-template",
+    "submitOptions": {
+        "entrypoint": "perf-testing",
+        "parameters": [PlaceHolder
+        ]
+    }
+}

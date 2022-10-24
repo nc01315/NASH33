@@ -1,0 +1,12 @@
+{
+  "keptn-project-name" : "x", 
+  "keptn-service-name" : "yahoo", 
+  "test-api-url": "https://yahoo.com",
+  "test-vus" : 20,
+  "test-workers" : 2,
+  "test-runtime":"30s",
+  "test-spawnrate" : 2,
+  "test-testfilex": "https://api.bitbucket.org/2.0/repositories/nc01315/repo/src/main/test.py",
+  "test-slofile": "https://api.bitbucket.org/2.0/repositories/nc01315/repo/src/main/slo.yaml",
+  "test-slifile" :"https://api.bitbucket.org/2.0/repositories/nc01315/repo/src/main/sli.yaml"
+}
